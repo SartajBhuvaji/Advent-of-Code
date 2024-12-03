@@ -100,8 +100,7 @@ with open('input.txt') as f:
                 if b6 == -1:
                     safe_count +=1
                     continue
-                
-                    
+                            
         else:
             print("invalid input")
             break
